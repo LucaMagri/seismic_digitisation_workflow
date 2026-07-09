@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the archived release."
+title: "Seismic image digitisation and navigation conversion workflow"
+authors:
+  - family-names: Magri
+    given-names: Luca
+date-released: 2026-07-09
+version: 0.1.0
+license: MIT
