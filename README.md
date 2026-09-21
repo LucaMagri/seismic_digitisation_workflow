@@ -84,4 +84,4 @@ The QGIS coordinate extraction script must be run inside QGIS because it uses th
 
 ## Suggested citation
 
-Please cite this repository once a DOI has been created.
+Magri, L. (2026). Seismic image digitisation and navigation conversion workflow (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.22866026
